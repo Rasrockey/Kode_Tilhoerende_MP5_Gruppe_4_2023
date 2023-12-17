@@ -1,1 +1,5 @@
-Dette repository indeholder koden benyttet af Gruppe 4 MP5 i efterår 2023
+Dette repository indeholder koden benyttet af Gruppe 4 MP5 i efterår 2023.
+
+Koden til at styre det rotationelle system hedder 'ActuelKodeNyControllerSample5.rar', koden der opretter QR koder hedder 'KodeTilAtOpretteQR.zip'
+Koden der styrer XPlanar-systemet er alt sammen i XPlanarKode directoriet, men er delt op i flere filer grundet deres størrelse.
+Download alle, udpak dem, læg '_Libraries' ind i 'PLC1', og læg 'CurrentConfig' ind i '_Boot'
